@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Ergastirio">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Ergastirio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
